@@ -1,5 +1,9 @@
 # Hi there, I'm Ankit Gupta 👋
 
+![IMG_0006](https://github.com/AnkitG1144/AnkitG1144/assets/43325595/95178e3b-1e21-4ab0-803e-e4c5d559b4fb)
+
+
+
 Welcome to my GitHub profile! I'm a passionate JavaScript developer with over 4.5 years of experience in building dynamic and responsive web applications. Currently, I'm pursuing my M.Tech from BITS Pilani, further honing my skills and expanding my knowledge in the field of computer science.
 
 ## 🔧 Skills & Expertise
