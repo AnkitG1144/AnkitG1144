@@ -47,7 +47,7 @@ Feel free to reach out if you want to collaborate on a project, need help with a
 My Github Stats
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=AnkitG1144&show_icons=true&theme=gotham" alt="AnkitG1144" />
+<img src="https://github-readme-stats.vercel.app/api?username=AnkitSegment&show_icons=true&theme=gotham" alt="AnkitSegment" />
 
 
 
